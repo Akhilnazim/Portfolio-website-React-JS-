@@ -14,7 +14,7 @@
     align-items: center;
     height: 0.1%;
 }
-.navbar_logo a{
+.navbar_logo {
     color: #fff;
     text-decoration: none;
     font-size: 1.8rem;

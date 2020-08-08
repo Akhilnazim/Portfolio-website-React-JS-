@@ -14,7 +14,7 @@ const Navbar = (props) => (
         <Button click={props.clickHandler}/>
       <div></div>
       <div className="navbar_logo">
-        <a href="#">DASHBOARD</a>
+        DASHBOARD
       </div>
       <div className="spacer"></div>
 
